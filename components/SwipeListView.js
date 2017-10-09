@@ -2,14 +2,13 @@
 
 import React, {
 	Component,
-	PropTypes,
 } from 'react';
 import {
 	ListView,
 	Text,
 	View,
 } from 'react-native';
-
+import PropTypes from 'prop-types';
 import SwipeRow from './SwipeRow';
 
 /**
